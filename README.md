@@ -11,7 +11,7 @@ three ordered sections:
    character `%`.
 
 3. *Data*. The first line is the header of the data. The first three
-   header names are `i` and `j` and `timestamp` (or `Date`). It follows by
+   header names are `i` and `j` and `timestamp`. It follows by
    other attributes.
 
 
