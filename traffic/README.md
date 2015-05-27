@@ -23,10 +23,10 @@ Descriptions' at the bottom of this page.
 
 	- `i`: road junction name
 	- `j`: road junction name
+	- `timestamp`: one of 96, 15 minute intervals in the day.
 	- `Date`: date of travel
 	- `LinkRef`: a unique link id representing a junction to junction 
-      link on the road network.
-	- `TimePeriod`: one of 96, 15 minute intervals in the day.
+      link on the road network.	
 	- `AverageJT`: the average journey time to travel across the `LinkRef`.
 	- `AverageSpeed`: the average speed (in km/h) of vehicles entering
       the junction to junction link within a given 15-minute time period.
