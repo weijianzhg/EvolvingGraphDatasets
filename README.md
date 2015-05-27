@@ -1,6 +1,8 @@
-# Evolving Graph Datasets
+# Evolving Graph Data Collection
 
-The data is stored in CSV format. The format files contains
+* [Website](http://www.maths.manchester.ac.uk/~weijian/EvolvingGraphDatasets/)
+
+* The data is stored in CSV format. The format files contains
 three ordered sections:
 
 1. *Header*. The first 15 characters must be `%%EvolvingGraph`. This
