@@ -5,9 +5,9 @@
 * Description: 
 
 This data series provides average journey time, speed and traffic flow
-information for 15-minute periods since April 2009 on all morotways
-and 'A' roads managed by the Highways Agency, known as the Strategic
-Road Network, in England.
+information for 15-minute periods on all motorways and 'A' roads
+managed by the Highways Agency, known as the Strategic Road Network,
+in England.
 
 Journey times and speeds are estimated using a combination of sources,
 including Automatic Number Plate Recognition (ANPR) cameras,
